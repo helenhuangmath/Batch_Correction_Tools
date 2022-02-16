@@ -1,4 +1,4 @@
-Several ways to remove batch correction:
+## Several ways to remove batch correction:
 
 1. SVA package, ComBat method
 ## Ref: https://bioconductor.org/packages/release/bioc/vignettes/sva/inst/doc/sva.pdf
